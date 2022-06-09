@@ -1,4 +1,4 @@
 # .github-private
 
 
-![cloud](img/header.jpg)
+![cloud](./img/header.jpg)
