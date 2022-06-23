@@ -1,6 +1,6 @@
 
-## Thanks for stopping by The Cloud Deck's GitHub
+## Thanks for stopping by Stratiform Digital's GitHub
 
-This is where our products are developed and live.
+This is where we develop and house our products.
 
-Visit http://theclouddeck.com for company information
+Visit http://stratiform.digital for company information.
