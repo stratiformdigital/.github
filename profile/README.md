@@ -1,6 +1,6 @@
 
-## Thanks for stopping by Stratiform Digital's GitHub
+## We are Stratiform Digital
 
-This is where we develop and house our products.
+Welcome to our GitHub!  This is where we develop and house our products.
 
-Visit [stratiform.digital](https://stratiform.digital) for company information.
+Learn more about us at [stratiform.digital](https://stratiform.digital)
