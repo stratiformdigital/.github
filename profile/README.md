@@ -3,4 +3,4 @@
 
 This is where we develop and house our products.
 
-Visit http://stratiform.digital for company information.
+Visit [stratiform.digital](https://stratiform.digital) for company information.
